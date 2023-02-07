@@ -1,0 +1,75 @@
+.Intr{
+  height: 650px;
+  text-align: center;
+  position: relative;
+  padding-top: 200px;
+}
+
+body{
+  margin: 0;
+  font-family: 'Mochiy Pop One', sans-serif;
+  background: #B5F1CC;
+}
+
+h1{
+  margin: auto 0 auto 0;
+  color: #1F8A70;
+
+}
+
+.boy{
+  width: 250px;
+}
+
+.ai{
+  position: absolute;
+  left: 250px;
+  width: 250px;
+  bottom: 600px;
+}
+
+.cloud{
+  position: absolute;
+  right: 250px;
+  width: 250px;
+  top: 500px;
+}
+
+.hobbies{
+  position: relative;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.controller{
+  width: 250px;
+  float: left;
+  margin-right: 20px;
+}
+
+.p1{
+  padding-top: 25px;
+  text-align: left;
+}
+
+.div2{
+  padding-top: 200px;
+}
+
+.video{
+  width: 250px;
+  float: left;
+  margin-right: 20px;
+}
+
+.contact{
+  padding: 250px;
+}
+
+hr{
+  border-style: none;
+  border-top: 7px dotted #CFFDE1;
+  width: 100px;
+}
